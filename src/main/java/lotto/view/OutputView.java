@@ -1,7 +1,5 @@
 package lotto.view;
-
-import lotto.domain.Lotto;
-
+import lotto.Lotto;
 import java.util.List;
 
 public class OutputView {
