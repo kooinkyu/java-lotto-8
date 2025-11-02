@@ -18,6 +18,7 @@
 - [x] 각 로또의 당첨 번호 개수 계산 (`WinningLotto`)
 - [x] 보너스 번호 일치 여부 판단 (`WinningLotto`)
 - [x] Rank Enum을 통해 등수 및 상금 매핑 (`Rank`)
+- [x] 당첨 통계 및 총 상금 계산 (`LottoResult`)
 
 ### 수익률 계산 기능
 - [ ] 총 상금 / 총 구입 금액 × 100
