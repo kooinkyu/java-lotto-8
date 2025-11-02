@@ -7,7 +7,7 @@
 - [x] 1~45 사이의 번호 유효성 검증 (`LottoNumber`)
 - [x] 6개 번호 유효성 검증 및 중복 검사 (`Lotto`)
 - [x] 1~45 사이의 6개 숫자 랜덤 생성 (`LottoGenerator`)
-- [x] 발행된 로또 번호 출력 (`OutputView`)
+- [x] 발행된 로또 번호 출력 (`OutputView`, `Application`)
 
 ### 당첨 번호 입력 기능
 - [ ] 당첨 번호 입력 (쉼표 기준 분리)
